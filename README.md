@@ -8,6 +8,8 @@ I have 1 year of experience as a web developer, creating robust and scalable web
  
 
 # Technical skills: 
+* AWS - Amazon Web Services
+* Python
 * Agile/Scrum methodology
 * HTML
 * CSS
