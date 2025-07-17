@@ -3,7 +3,7 @@
 I have 1 year of experience as a web developer, creating robust and scalable web applications. I have hands-on experience with React, Node.js, Express, and MongoDB, and have successfully created projects with Javascript, HTML, CSS.
 
 
-- ⚡ Fun fact: Loves the outdoors, creating e-commerce sites,taking new challenges and problem solving.
+- ⚡ Fun fact: Loves the outdoors, creating e-commerce sites,taking on new challenges and problem solving.
 
  
 
